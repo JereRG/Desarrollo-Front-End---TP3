@@ -8,10 +8,6 @@ export const Inicio = () => {
     <ButtonInicio />
     <Title title="Trabajo Practico Frontend N3" />
     <div className="inicio-container">
-      <div className="intro-card">
-        <h2>Bienvenido a la App</h2>
-        <p>Esta aplicación incluye varias funcionalidades interesantes:</p>
-      </div>
       <div className="cards-row">
         <div className="feature-card">
           <h3>Info Personal</h3>
